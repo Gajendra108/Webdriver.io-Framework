@@ -1,0 +1,13 @@
+//This file is used to enable code autocompletion feature. Refer ->https://webdriver.io/docs/autocompletion/#visual-studio-code-vscode
+{
+    "compilerOptions": {
+        "types": [
+            "node",
+            "webdriverio/async",
+            "@wdio/mocha-framework"
+        ]
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
